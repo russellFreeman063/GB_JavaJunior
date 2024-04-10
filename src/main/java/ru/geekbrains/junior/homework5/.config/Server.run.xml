@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Server" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.geekbrains.junior.homework5.Server.Program" />
+    <module name="junior" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
